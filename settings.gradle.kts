@@ -22,3 +22,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "PromptApp"
 include(":app")
+include(":core")
+include(":core:ui")
+include(":core:designsystem")

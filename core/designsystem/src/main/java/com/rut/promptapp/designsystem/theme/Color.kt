@@ -1,4 +1,4 @@
-package com.rut.promptapp.ui.theme
+package com.rut.promptapp.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 

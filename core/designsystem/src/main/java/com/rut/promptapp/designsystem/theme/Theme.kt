@@ -1,4 +1,4 @@
-package com.rut.promptapp.ui.theme
+package com.rut.promptapp.designsystem.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PromtAppTheme(
+fun PromptAppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
